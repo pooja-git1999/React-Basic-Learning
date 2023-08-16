@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React-Basic-Learning/static/css/main.d107d9ce.css",
+    "main.js": "/React-Basic-Learning/static/js/main.871aea34.js",
+    "static/js/787.b09efc24.chunk.js": "/React-Basic-Learning/static/js/787.b09efc24.chunk.js",
+    "static/media/components.png": "/React-Basic-Learning/static/media/components.3ce194ffe2ce95afcc41.png",
+    "static/media/key-concepts.png": "/React-Basic-Learning/static/media/key-concepts.caef5ed09cb9a9f18452.png",
+    "static/media/state.png": "/React-Basic-Learning/static/media/state.2cea241e7ec2c251bab4.png",
+    "static/media/events.png": "/React-Basic-Learning/static/media/events.8e7a94d93a12c29aa5f2.png",
+    "index.html": "/React-Basic-Learning/index.html",
+    "main.d107d9ce.css.map": "/React-Basic-Learning/static/css/main.d107d9ce.css.map",
+    "main.871aea34.js.map": "/React-Basic-Learning/static/js/main.871aea34.js.map",
+    "787.b09efc24.chunk.js.map": "/React-Basic-Learning/static/js/787.b09efc24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d107d9ce.css",
+    "static/js/main.871aea34.js"
+  ]
+}
